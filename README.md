@@ -2,6 +2,8 @@
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
   NAME:KAVINRAJ.S
+
+  
   REG NO:212223100019
 # ALGORITHM
 
