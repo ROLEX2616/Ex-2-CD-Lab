@@ -7,6 +7,7 @@
   REG NO:212223100019
 # ALGORITHM
 
+
 1.	Start the program.
 
 2.	Lex program consists of three parts.
